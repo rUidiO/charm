@@ -25,7 +25,7 @@ require (
 	github.com/muesli/roff v0.1.0
 	github.com/muesli/sasquatch v0.0.0-20200811221207-66979d92330a
 	github.com/muesli/toktok v0.1.0
-	github.com/prometheus/client_golang v1.13.0
+	github.com/prometheus/client_golang v1.14.0
 	github.com/spf13/cobra v1.5.0
 	goji.io v2.0.2+incompatible
 	golang.org/x/crypto v0.0.0-20220826181053-bd7e27e6170d
@@ -67,7 +67,7 @@ require (
 	github.com/muesli/mango-pflag v0.1.0 // indirect
 	github.com/muesli/termenv v0.11.1-0.20220212125758-44cd13922739 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
-	github.com/prometheus/client_model v0.2.0 // indirect
+	github.com/prometheus/client_model v0.3.0 // indirect
 	github.com/prometheus/common v0.37.0 // indirect
 	github.com/prometheus/procfs v0.8.0 // indirect
 	github.com/remyoudompheng/bigfft v0.0.0-20200410134404-eec4a21b6bb0 // indirect
